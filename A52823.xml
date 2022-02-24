@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old popery as good as new, or, The unreasonableness of the Church of England in some of her doctrines and practices and  the reasonableness of liberty of conscience : in a letter from a private gentleman in the country to his friend a clergy-man in the city.</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52823</idno>
+            <idno type="STC">Wing N47</idno>
+            <idno type="STC">ESTC R42186</idno>
+            <idno type="EEBO-CITATION">24334402</idno>
+            <idno type="OCLC">ocm 24334402</idno>
+            <idno type="VID">109669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1708:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old popery as good as new, or, The unreasonableness of the Church of England in some of her doctrines and practices and  the reasonableness of liberty of conscience : in a letter from a private gentleman in the country to his friend a clergy-man in the city.</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>MDCLXXXVIII [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated on p. 19: September 12, 1687. N.N.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>This item (Wing N47) has the same text as Wing N48 (reel 1290:14), with a variant title page.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109669:1"/>
+            <pb facs="tcp:109669:1" rendition="simple:additions"/>
+            <p>OLD POPERY As GOOD as NEW.</p>
+            <p>OR The Unreaſonableneſs of the <hi>CH<g ref="char:V">Ʋ</g>RCH</hi> of <hi>ENGLAND</hi> in ſome of Her Doctrines and Practices, And the Reaſonableneſs of <hi>Liberty of Conſcience.</hi>
+            </p>
+            <p>In a Letter from a Private Gentleman in the Country to his Friend a Clergy-Man in the City.</p>
+            <q xml:lang="lat">Magnam Chartam dedit Henricus, Majorem dabit Chartam Iacobus.</q>
+            <p>Printed in the Year MDCLXXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:109669:2"/>
+            <pb n="3" facs="tcp:109669:2"/>
+            <opener>
+               <salute>Worthy SIR,</salute>
+            </opener>
+            <p>THough I am a Friend to the Church of <hi>England,</hi> and Conformable to her Eſta<g ref="char:EOLhyphen"/>bliſhments, as the Law obligeth me, yet I have a greater Friendſhip for true Religion in the general in what Habit or Dreſs ſoever I find it, and amongſt whatſoever different Opini<g ref="char:EOLhyphen"/>ons and Perſwaſions, I do not think any one ſort of Men do ingroſs all true Religion to themſelves. <hi>Apolles</hi> and <hi>Cephas</hi> had I doubt not as good Chriſti<g ref="char:EOLhyphen"/>ans amongſt their Followers as <hi>Paul</hi> himſelf had. Their fault was want of Good-will one towards another, though of different Sects. The Sincere Conſciencious Man, that is Pious to his God, and Honeſt and Juſt to his Neighbour; the Iſraelite indeed, in whom there is no Guile, where-ever I find him, whether at the Altar with his Beads, or in the Publick Church, or in the Private Conventicle, this is the Man I take to be a good Chriſtian, and a Member of that <hi>Catholick Church</hi> in which I believe. And being thus perſwaded, I have often with a melancholy Heart obſerved and reflected upon the troubled ſtate of Religion in this Nation for
+<pb n="4" facs="tcp:109669:3"/>ſeveral Years paſt, and the dire Conſequences that have been amongſt us of our ſevere <hi>Penal Laws,</hi> in matters of Religion, made to Gratifie one party of Men only, and to Suppreſs and Ruin all the reſt. I could not without Compa<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>onate and Bleed<g ref="char:EOLhyphen"/>ing Thoughts ſee and hear of ſo many Perſons of Sober and Vertuous Lives, and (as I cannot but believe) very good Chriſtians, to be ſtript of their Goods and Eſtates, their Perſons Impriſoned, or at leaſt forc'd to Quit and Fly from their Habi<g ref="char:EOLhyphen"/>tations, and their Wives and Children Undone and brought to Want, and all becauſe they could not Conform to the Impoſitions of this one Patty of Men. And theſe Thoughts have ſometimes led me further to conſider how conſiſtent Laws of this Nature are with Chriſtianity and Policy. If the things Impoſed be in their own nature indiffe<g ref="char:EOLhyphen"/>rent to be done or not done, then methinks it can hardly be good Chriſtianity to Impoſe them, and ſeems to be quite contrary to the ſence of St <hi>Paul</hi> in his Epiſtle to the <hi>Romans, chap.</hi> 14. If neceſſa<g ref="char:EOLhyphen"/>ry that Legiſlation ought to be Infallible that will impoſe any thing as ſuch. Nay even then they ought not to be Impoſed, for to force me to change my Opinion is out of the Power of a Law, and even out of my own Power to do; and to act
+<pb n="5" facs="tcp:109669:3"/>contrary to my Opinion and Conſcience is not fit ſure for a Chriſtian Legiſlation to Impoſe. And for the Policy of it, moſt certainly it can't be good. All Laws ought to be levell'd at the common good of the People, and as comprehenſive as may be for all Intereſts, &amp; this renders a Government Safe and Steddy: But when Laws are made with regard only to a particular party of Men, and againſt the Intereſt and Inclination of as great or a greater Number, this improbability muſt render a Govern<g ref="char:EOLhyphen"/>ment Hazardous and Unſtable. And this we find by woful Experience does continue and highten our Diviſions, and makes our Breaches wider. It puts a Difficulty upon the Prince too, that he muſt neceſſarily Govern with the Diſguſt and Diſcon<g ref="char:EOLhyphen"/>tent of a great part of his People. Nay, and perhaps to his own Diſcontent and Diſſatifaction alſo. For a Mild and Merciful Prince cannot de light in Executing Severity, and a Prince of tender Conſcience may perhaps doubt whether Laws of this Nature be not void <hi>in foro Conſienciae</hi> and there<g ref="char:EOLhyphen"/>fore not to be put in Execution. But before I can think theſe thoughts, though I fancy my ſelf interrupted by a Zealous Church of <hi>England-Man,</hi> who comes full Mouth to tell the neceſſity of theſe <hi>Penal Laws,</hi> for that ſome of the Diſſenters from
+<pb n="6" facs="tcp:109669:4"/>the eſtabliſh'd Religion own a Foreign Power, and the reſt are Factious, and Seditious, and of Rebellious Principles; but the <hi>Church of England</hi> is Loyal, and a ways was. A great thing this to be ſaid for the <hi>Church of England,</hi> that when they have had the Prince and the Laws on their ſide they have always been extraordinary Loyal. But turn the Tables and ſee what they are then. The late King did but ſet out a Declaration for Indulging tender Conſciences, and how did they Rant and Rave againſt it both in their Pulpit &amp; Private Diſ<g ref="char:EOLhyphen"/>courſes? How did they animate the Parliament to oppoſe the King in it, and were not quiet till that good King did recal his Declaration? And how do they now, upon occaſion of the preſent <hi>Liberty of Conſcience,</hi> queſtion even thoſe Powers and Prerogatives in the Prince, that they them<g ref="char:EOLhyphen"/>ſelves (wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it ſerv'd for their purpoſe did ſo vigorouſly Pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch up? And all this Buſsle and Stir when their Living and Perfe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are in no danger, but only their Power of Afflicting their Brethren reſtrained. What wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld theſe Men do i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Lives, Eſtates and Liberties were in danger by Laws made againſt them, as are now againſt others? Then they would without doubt be as great Male contents to the Government, and
+<pb n="7" facs="tcp:109669:4"/>endeavour as much to evade ſuch Laws, and avoid their Paſſive Obedience to them, and conſequent<g ref="char:EOLhyphen"/>ly deſerve as much the Epithets of Factious and Seditious, and Diſ-affected to the Government as ever their Diſſenting Brethren did. 'Tis is againſt Humane Nature willingly to be Miſerable. And no Man can be eaſie under thoſe Laws that would undo him. And is it my fault that I am thus Un<g ref="char:EOLhyphen"/>eaſie? Or is it not rather the miſtake of the Le<g ref="char:EOLhyphen"/>giſlators to impoſe Laws that I cannot obey, and therefore muſt unwillingly ſuffer under? Upon the whole matter, I could not but conclude theſe Im<g ref="char:EOLhyphen"/>poſitions in matters of Religion to be Unchriſtian, the Penal Laws that enforce them to be Impoli<g ref="char:EOLhyphen"/>tick, and the extraordinary Loyalty of the <hi>Church of England</hi> (by colour whereof ſhe procur'd them<g ref="char:punc">▪</g> to be a meer Sham and Pretence. I proceed then to conſider and reflect upon ſome of the Doctrines and Practices of this Loyal <hi>Church of England,</hi> with relation to thoſe that differ from her; wherein I found her, as I thought, liable to many Objecti<g ref="char:EOLhyphen"/>ons, which occaſioned this Letter to my Friend. And therein I thought it not Impertinent to take notice of our extraordinary Happineſs in a Prince of that great and noble Principle of <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience,</hi> the reaſonableneſs of that Principle, and the
+<pb n="8" facs="tcp:109669:5"/>unreaſonableneſs and miſtake of our <hi>Penal Laws,</hi> which were deſign'd to Unite, but do in truth more Divide us, and therefore are very fitly Suſpended by the King, till they may be Repealed by Act of Parliament. <hi>Sir,</hi> Having lately read ſome moſt Ingenious Papers (ſuppoſed to be yours) upon this Subject of <hi>Liberty of Conſcience,</hi> and perſwa<g ref="char:EOLhyphen"/>ding my ſelf that in many of theſe things my thoughts do concur with yours, I preſent this Paper to you deſiring you, if you think fit, to cauſe it to be Printed. For my part I date not think it worth Printing, nor, if I did, do I know how to get it done, being a private Gentleman in the Country, that never was in Print, nor now other<g ref="char:EOLhyphen"/>wiſe ambitions of it, then that I may tell the World how much I am, <hi>Sir,</hi>
+            </p>
+            <closer>
+               <signed>Your moſt humble Servant <hi>N. N.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctober 19. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:109669:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AMongſt all the Polemick Diſcourſes, that are abroad betwixt the Church of <hi>England</hi> and the Church of <hi>Rome,</hi> I wonder that ſome things are not ob<g ref="char:EOLhyphen"/>jected by the Papiſts againſt the Church of <hi>England,</hi> which methinks ſhe is very obnoxious to, and which I would gladly be able to Anſwer if Objected. And becauſe I know you to be a Zealous Son of the Church of <hi>England,</hi> and as able as any Body to defend her in her Principles and Practices, I apply my ſelf to you for ſatisfaction herein. Nor ſhould I have given you this trouble, but that I find our Vicar (who is no very mean Man neither, his Parts being better in proportion then his Preferments) is hard put to it to give me a ſatisfactory Anſwer.</p>
+            <p>We Charge the <hi>Papiſts</hi> with <hi>Idolatry</hi> in Worſhipping Images and Pictures of our Saviour and his Croſs, <hi>&amp;c.</hi> But in the mean time we do not conſider that we may as well be blamed our ſelves for Bowing at the Name of Jeſus, Bowing to the Altar, Kneeling at the Lords Prayer at the end of other Prayers, and putting off our Hats at Church when no Divine Service there, <hi>&amp;c.</hi> The firſt of which, <hi>viz.</hi> Bowing at the Name of Jeſus is eſtabliſhed by a Cannon, and the reſt are ſo much the conſtant Practice of the Church of <hi>England,</hi> that I never knew either Biſhop or dignifi'd Clergy-Man, or any other thought worthy to be ſuch, but thoſe that Practis'd them. I ex<g ref="char:EOLhyphen"/>pect you'l tell me, that there can be no hurt in theſe things, for that when we hear the Name of Jeſus it puts us in mind of our Bleſſed Saviour, to whom we do the
+<pb n="10" facs="tcp:109669:6"/>Reverence of Bowing. For Bowing to the Altar or Communion-Table, that is the place whereon the Bread and Wine are Conſecrated, and where the Sacrament of the Lords Supper is Adminiſtred, and thereby our Saviour and his Paſſion particularly Commemorated, and therefore ſurely to pay a Reference to that place can have no harm in it. For Kneeling at the Lords Prayer too in concluſion of other Prayers, it is the form of Prayer that Chriſt him<g ref="char:EOLhyphen"/>ſelf taught us, and Sanctified with his own Lips, and to do a Reverence to him when we pronounce thoſe Words can have no hurt in't one would think. And for putting off our Hats in Churches, when no Divine Service there, ſure that can be no harm neither, to pay a Reverence in that place that is conſecrated and ſet apart for the Worſhip of the Deity.</p>
+            <p>Theſe things ſeem pauſible, and have along time pas't for Currant. But for my part, when I conſider what dif<g ref="char:EOLhyphen"/>ference there is betwixt our Bowing at the Name of <hi>Jeſus,</hi> and the <hi>Papiſts</hi> Bowing to the Image or Picture of <hi>Jeſus,</hi> I can find none but this, <hi>viz.</hi> The difference of the out<g ref="char:EOLhyphen"/>ward ſence by which the thought of our Saviour is con<g ref="char:EOLhyphen"/>veyed to our Underſtanding. For as upon ſight of his Effigies the <hi>Papiſts</hi> Worſhip, ſo upon hearing of his Name <hi>we</hi> Worſhip alſo. 'Tis true this Worſhip of ours cannot be call'd Idolatry, the ſignification of the Word wo'nt bear it; but I take the Venom of Idolatry to be a miſ<g ref="char:EOLhyphen"/>plac't Worſhip; and if the <hi>Papiſt</hi> in Bowing to that which repreſents our Saviour to his Sence of Seeing be guilty of it, I doubt, when by the ſound of his Name <hi>Jeſus</hi> he is repreſented to my Sence of Hearing, and I Worſhip alſo, I'm hardly Innocent.</p>
+            <p>In Bowing to the Altar too, becauſe the Sacrament of the Lords Supper is there Adminiſtred, and the Paſſion
+<pb n="11" facs="tcp:109669:6"/>of our Saviour is there Commemorated; what do I leſs then the <hi>Papiſt</hi> Bowing to the Crucifix, whereby the Paſſion of our Saviour is to him more ſenſibly repreſented? And if Bow to the Altar, becauſe that Sacrament is there Ad<g ref="char:EOLhyphen"/>miniſtred, why not to the Font alſo, where the other Sa<g ref="char:EOLhyphen"/>crament of Baptiſm is alſo Adminiſtred? Some will excuſe this Bowing to the Altar, by calling it Bowing to the <hi>Eaſt,</hi> and pretend to give ſome inſignificant Reaſons why we ſhould do ſo. Others will tell you of a relative Holi<g ref="char:EOLhyphen"/>neſs in Places and Things, and excuſe it that way. But I would ask, If Bowing to the <hi>Eaſt</hi> be the reaſon, why no ſuch Bowing in Churches where the Communion-Table ſtands in the Body of the Church? If becauſe of the relative Holineſs, why has not the Font as good a title to this relative Holineſs, and conſequently to the ſame re<g ref="char:EOLhyphen"/>ſpect the Altar hath? And what is this relative Holineſs mere in any thing then its being Conſecrated and ſet a part for Sacred Uſes? And muſt we Worſhip anything for this? Upon the ſame reaſon the Parſons may by de<g ref="char:EOLhyphen"/>grees challenge ſome ſort of extraordinary reſpect to them<g ref="char:EOLhyphen"/>ſelves, being by their Ordination ſet apart for Sacred Ser<g ref="char:EOLhyphen"/>vices. Methinks 'twere better for the Church of <hi>England</hi> to ſpeak plain Engliſh, and confeſs ſhe Bow's to the Altar for the ſame reaſon the <hi>Papiſts</hi> do. They do it becauſe they hold that after Conſecration the Wafer and Wine are become the real Body and Blood of Chriſt, ſo that the real Chriſt is preſent there. And this without all doubt was the beginning of it in the Church of <hi>England.</hi> We had it from <hi>Rome,</hi> and in truth we keep it ſtill upon the ſame reaſon they do, though we conceal, and will not own it. The real Preſence that we hold in the Sacrament, what to make of it I can't imagine but Tranſubſtantiation, or ſomewhat yet more ſtrange. For what difference is there
+<pb n="12" facs="tcp:109669:7"/>betwixt the real Chriſt being preſent by the Tranſubſtan<g ref="char:EOLhyphen"/>tiating Power of the Popiſh-Prieſts Conſecration, &amp; Chriſts being really preſent by the as unintelligible Power of out Church of <hi>England</hi> Prieſts Conſecration? Is it not as great a Miracle, for a Church of <hi>England</hi> Prieſt, by his Words of Conſecration, to fetch down Chriſt from Heaven, and to circumſcribe his Omni-preſent Deity to the. Communi<g ref="char:EOLhyphen"/>on-Table, as for the Popiſh-Prieſt, by his Conſecration, to tranſlate the Bread and Wine into Chriſts real Body and Blood? And when we have his real Preſence there, how comes it that in the Sacrament we really receive his Body and his Blood? It muſt be by Tranſubſtantia<g ref="char:EOLhyphen"/>tion ſure, or ſomewhat leſs intelligible even then that. Now that there is a real Preſence in the Sacrament, and that we receive the Body and Blood of Chriſt verily and indeed, in the Opinion of the Church of <hi>England,</hi> I will only cite you the laſt Church of <hi>England</hi> Author that I read, and that is the late Publiſhed Expoſition of the <hi>Church-Catechiſm,</hi> Compoſed for the Dioceſs of <hi>Bath</hi> and <hi>Wells,</hi> Page 75, and 76. He indeed there confeſſeth it Unintelligible, and makes ſome Pious Ejaculations there<g ref="char:EOLhyphen"/>upon. And what need there is to make or think this Sa<g ref="char:EOLhyphen"/>crament ſo Unintelligible I proteſt I know not. Moſt cer<g ref="char:EOLhyphen"/>tainly our Saviour in his Inſtitution of it nere meant it ſo: When he ſaid, <hi>Eat, this is my Body, and Drink, this it my Blood:</hi> He little thought that the Pronoun <hi>(my)</hi> ſhould occaſion theſe Doctrines of Tranſubſtantiation and the Real Preſence; if he had, he ſurely would not have gi<g ref="char:EOLhyphen"/>ven thoſe other Directions, <hi>viz, That as oft as we do it we ſhould do it in Remembrance of Him:</hi> Remembrance being only of Perſons and Things abſent and not preſent. He ſurely did intend it a plain and eaſie thing both to be done and underſtood. As if he had ſaid, <hi>I for your ſakes have
+<pb n="13" facs="tcp:109669:7"/>left thoſe heavenly Manſions where my Father dwells, and where I ſate at his Right Hand, enjoying equally Eternal Bliſs in <g ref="char:V">Ʋ</g>nity with him; and am from thence come down to put on Human Nature here, and to become Obnoxious to all the Frailties and Infirmities thereof, even to Death it ſelf. This Body of mine muſt be Bruiſed for your Iniquities, and my Blood ſpilt for your Sins. Nay I muſt Dye the Death too, even the accurſed Death of the Croſs, (a Death more due to you) that I may reſcue you from Death Eternal. And therefore when I am Dead and Gone I would have you Meet, and Eat and Drink ſometimes together, and remember me. When you break Bread, remember this Body of mine that was Wounded for your ſakes; and when you Drink, remember alſo my Blood that was for your ſakes Shed. Remember that bitter Cup that I drank of; thoſe horrid Agonies that I endured to ſatisfie the Divine Vengeance due to you. And when you do this, repent of; and for ſake your Sins that brought me to it, and believe in me, and rely upon this Satisfaction and Attonement thus made for you. So ſhall you Eat and Drink Worthily: So ſhall you Grow and Encreaſe in Grace: So ſhall your Souls be Nouriſh'd and Preſerv'd to Everlaſting Life; and ſo ſhall my Fleſh be to you Meat indeed, and my Blood Drink in<g ref="char:EOLhyphen"/>deed.</hi> This ſeems to me to be the ſole and whole intent and meaning of our Saviour, when he inſtituted this holy Feſtival of the Lords Supper, <hi>viz. Thankfully to comme<g ref="char:EOLhyphen"/>morate his Death and Paſſion, and to believe in him.</hi> How the Immortal God could become Man and Dye for us is the great Myſtery to be Admired and Believed. That God was made Man and did Dye for us is the great Mercy to be Remembred and Ador'd. Now by theſe Notions of Tranſubſtantiation and the Real Preſence we make our Commemoration as Myſterious as the thing Commemora<g ref="char:EOLhyphen"/>ted, and conſequently the practical part of our Reſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ion,
+<pb n="14" facs="tcp:109669:8"/>which ſhould be plain and eaſie, does become difficult and unintelligible. 'Tis good Craft in the Prieſthood to make it ſo, who thereby make themſelves ſo much the more Neceſſary, by how much the more Myſterious they make our Religion. And if they would ſet to it, and make the beſt uſe of all thoſe Figurative, and Metaphorical, and other Rhetorical Expreſſions that are in the Scriptures, and take them Litterally, they may furniſh us with Myſteries good ſtore. But enough of this matter.</p>
+            <p>Now for the Kneeling at the Lords Prayer at the end of other Prayers which are ſaid Standing. What may this mean I trow? Do we vary the object of our Devotion when we uſe the Lords Prayer? Do we not in our other Prayers before it pray to the ſame God? Why not then the ſame Reverent Poſture at one Prayer as at another? Nay, methinks if any difference ought to be, the moſt Reverent Poſture ſhould be uſed when we do our Devotions in our own imperfect Words and Forms, and when we uſe that abſolute Form our Saviour taught us, one would think we rather might approach the Throne of Grace more boldly.</p>
+            <p>And when we put off our Hats in the Church, when there is no Divine Service there, to what purpoſe is it, and to whom do we do that Reſpect? If to the Deity, why do we walk and talk, and tranſact other matters there at the ſame time, as Pariſh Buſineſs, <hi>&amp;c.</hi> If not to the Deity, to whom or what elſe? I doubt there can no good account be given of it. Yet I am told of a tantivy Country Parſon in <hi>Northamtonſhire,</hi> who being lately very angry with an honeſt Neighbour of his, for keeping on his Hat, at a Pariſh Meeting, in the Church, and being reſtrained from his uſual and proper courſe of Revenge, by the Kings late graci<g ref="char:EOLhyphen"/>ous Declaration of Indulgence, he prevailed with a young
+<pb n="15" facs="tcp:109669:8"/>Baronet (his Patron and his Neighbours Landlord) to turn his Neighbour out of his Farm (where he had Lived long, and paid his Rent well) to his no ſmall Damage. A wiſe Landlord, and a precious Parſon in the mean time, I'll warrant You.</p>
+            <p>Another Objection I have againſt our Church of <hi>Eng<g ref="char:EOLhyphen"/>land, Is the Singing their Prayers in their Cathedral Service.</hi> We blame the <hi>Papiſts</hi> for Praying in an unknown Tongue, and what is this leſs? It is Intelligible to none but thoſe whoſe Buſineſs it ſo much is, that I doubt it is but little their Devotion. And yet we tell the <hi>Papiſts,</hi> that all pub<g ref="char:EOLhyphen"/>lick Devotion ought to be Intelligible to all, and therefore not in Latine; and therefore ſay I too, not in this noiſie confuſed manner that can't be underſtood.</p>
+            <p>Then there's the buſineſs of the Croſs in Baptiſm, very lyable to Exception. <hi>I Sign thee with the Sign of the Croſs</hi> (ſays the Church of <hi>England) in token that thou ſhalt be<g ref="char:EOLhyphen"/>come Chriſts Souldier and Servant, and manfully Fight under his Banner,</hi> &amp;c. <hi>I Sign my ſelf with the Sign of the Croſs</hi> (ſays the <hi>Papiſts) when in Danger, and upon ſuch like Oc<g ref="char:EOLhyphen"/>caſions, in token that my Faith and Truſt is in my Bleſſed Savi<g ref="char:EOLhyphen"/>our, that he that hath ſet me free from the Bondage and Slavery of Sin and Satan, can and will preſerve me from all outward Dangers.</hi> Pray where's the difference?</p>
+            <p>Another thing I object againſt the Church of <hi>England,</hi> which I find in the Expoſition of the <hi>Church Catechiſm,</hi> that I mentioned before, page 28. where he tells us of the Saints Praying for us in Heaven, whilſt we are Celebrating their Memorials here. If they can pray for us and do us kindneſs, ſure we may pray to them to do it. And ſo in that point I think we are very good Catholicks.</p>
+            <p>One thing more I muſt not omit to mention, which me<g ref="char:EOLhyphen"/>thinks is very ſcandalous in our Church of <hi>England,</hi> and that
+<pb n="16" facs="tcp:109669:9"/>is the ſlight regard we have to the <hi>Sabath-Day</hi> or <hi>Sunday.</hi> With what induſtry we have endeavoured to ſuppreſs the Obſervation of that Day, the Book of Sports heretofore publiſhed and publickly read in Churches, and the ſeveral Books written againſt the <hi>Sunday-Sabath,</hi> by Eminent Church-Men, may ſufficiently ſhew. And at this Day it is enough to brand any Man for a <hi>Fanatick</hi> or <hi>Whig</hi> if the be for the ſtrict Obſervation of that Day, or for twice Preach<g ref="char:EOLhyphen"/>ing on that Day. How many Miniſters have been upbraid<g ref="char:EOLhyphen"/>ed with it even at Viſitations? It is the Opinion or many Learned Men, that the Obſervation of this Day is of Di<g ref="char:EOLhyphen"/>vine Inſtitution, which makes it at leaſt probable; and there<g ref="char:EOLhyphen"/>fore how unſeemly is it in us, who are a Reformed Church, ſo much to diſcountenance the Obſervation of this Day (as if we were afraid of being too Religious) when at the ſame time we exact the ſtrict Obſervation of ſome other Days acknowledged on all hands to be purely of Humane Inſtitution.</p>
+            <p>Theſe and many other things in practice with us are ſo like the Church of <hi>Rome</hi> that it ſeems meer Obſtinacy in us that we are not the ſame with them. And certainly all Standers by, that have obſerved for theſe twenty ſix Years paſt vvhat vve have Preach't and Practiced, have thought us that vvay bent. But they vvere quite miſtaken I perceive. We are for a Popery of our ovvn, a Yoke of our own making that we would have the ſlaviſh Laity to vvear. And 'tvvas for this that vve have procured to be made and excecuted thoſe <hi>Penal Laws,</hi> which novv the World (too early for our purpoſe) does ſee through. And to this end we have Preach'd up and taught that wholſome Doctrine of Prayers and Tears by others, to be Practic'd not our ſelves. 'Tis ſtrange to me, I muſt confeſs, why we ſhould retain ſuch ſemblances of Popery, and thoſe ſo
+<pb n="17" facs="tcp:109669:9"/>unaccountable, and yet ſo eagerly oppoſe Popery it ſelf. The Apes the Uglier Creature much becauſe moſt like the Nobleſt Creature Man. And for my part I think our Apiſh Ceremonies and Superſtitions are ſo like thoſe of <hi>Rome</hi> that they're the worſe again. And truly if we muſt have ſo many Ceremonies in our Religion, give me Old Popery rather then New: Thoſe Ceremonies of the <hi>Roman Church,</hi> Approv'd and Practiced by ſo much the greater part of the Chriſtian World for many Ages paſt, rather then thoſe trivial upſtart Mimmickries of them practi<g ref="char:EOLhyphen"/>ced only within the narrow Limits of the Church of <hi>England.</hi>
+            </p>
+            <p>But, thanks to Heaven and our great Prince, our Choice is not ſo ſtraightned. A Nobler Principle far is by his Great Example taught us. Be we but Virtuous and Reli<g ref="char:EOLhyphen"/>gious, and we may be ſo in our own way. Modes in Re<g ref="char:EOLhyphen"/>ligion ought not, ſhall not be Compell'd. Thoſe ſevere <hi>Penal Laws,</hi> that at the firſt were parhaps well intended, being made upon miſtaken Grounds prove Ineffectual, and ſerve now only to aſſiſt the Haughty Clergy-Man in his Inſolence, the Angry Lay-Man in his Revenge, and the Ravenous Informer in perſuit of his Prey. And when a Law out lives the reaſon of it, and becomes inconvenient in the general Opinion of People, (as theſe have been allready Voted by a Parliament) why ſhould it not be in the Princes Power (nay is it not his Duty) to interpoſe and preſerve his People from Deſtroying one another by bid<g ref="char:EOLhyphen"/>ding ſuch fatal Laws to ceaſe, at leaſt till a Parliament may actually Repeal them? Sure elſe he bears the Sword in Vain. When he in his great Wiſdom ſees and obſerves that Humane Laws can't reach the Minds of Men; but that that muſt and will be Free: And to compel the Body
+<pb n="18" facs="tcp:109669:10"/>without the Soul is but to force Hypocriſie; from which no Glory can redound to the Prince, nor Safety to his Go<g ref="char:EOLhyphen"/>vernment. When his Wiſdom approves as Neceſſary what his Piety inclines him to as Juſt, and for the good of his People: Shall he not then declare, <hi>My People ſhall be Free, their Conſciences no longer ſhall be forc'd in matters of Re<g ref="char:EOLhyphen"/>ligion?</hi> O Great and Gracious KING! This is to make us Free indeed. A Glorious and Divine Principle. A Principle of Univerſal Right and Juſtice, and doubtleſs moſt agreeable to the Mind and Will of God, who ſeems on purpoſe to have plac'd the Soul out of the reach of Hu<g ref="char:EOLhyphen"/>mane Power and Compulſion, and not otherwiſe to be moved then by the Dictates of right Reaſon, and the gra<g ref="char:EOLhyphen"/>cious Influences of his Holy Spirit. A Principle that carries in it the ſum of all Religion, <hi>Impartial Charity:</hi> that carries in it the ſum of all Wiſdom and Policy, it be<g ref="char:EOLhyphen"/>ing the only Principle that can Unite divided Mankind heartily together. A Principle for which our Glorious Prince will ever be Renown'd in after Ages, when it ſhall be ſaid, <hi>King JAMES the Frſt <g ref="char:V">Ʋ</g>nited the King<g ref="char:EOLhyphen"/>doms, but 'twas Great JAMES the Second that did <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>nite the People.</hi> And now I am upon this mighty Theme, ſo great a Prince; and of ſo noble a Principle as <hi>Liberty of Conſcience,</hi> I ſhould not know when to have done did not my Sheet of Paper grow too neer the end. I will therefore only add this one thing: That Prince that Governs by this generous and noble Principle, his Government does moſt reſemble that of the Deity in Governing the World. God Almighty, the great Author of all our various intellectual as well as outward Complections, accepts the variegated Services of his different Creatures, and is pleaſed with the Harmony that ariſeth from that
+<pb n="19" facs="tcp:109669:10"/>Diſcord, ſince all agree in the Praiſe and Glory of their great Creator. But no more. I would be glad to have your thoughts of theſe things, in which, though I con<g ref="char:EOLhyphen"/>ceit my ſelf ſomewhat in the right, I am ſure you will con<g ref="char:EOLhyphen"/>clude me much in the wrong. I am</p>
+            <closer>
+               <signed>Your humble Servant, <hi>N. N.</hi>
+               </signed>
+               <dateline>
+                  <date>September 12. 1687.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q xml:lang="lat">Primus Jacobus Regna Conjunxit, Secundus Corda.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
